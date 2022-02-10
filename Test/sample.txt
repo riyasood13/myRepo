@@ -1,0 +1,3 @@
+
+Hi 
+WE are in sample.txt file
