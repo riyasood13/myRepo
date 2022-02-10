@@ -1,3 +1,5 @@
 
 Hi 
 WE are in sample.txt file
+
+It is a sample file
